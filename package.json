@@ -1,0 +1,22 @@
+{
+  "name": "eureka-client-node",
+  "version": "1.0.0",
+  "description": "Eureka client for nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eureka"
+  ],
+  "author": "Brandon Monterrozo <ste45_007@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "ip": "^1.1.5",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "standard": "^13.1.0"
+  }
+}
